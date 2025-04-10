@@ -10,7 +10,11 @@ body, html {
 }
  
 body {
-  background-image: url(../img/logo.png),url(../img/Rectangle_white.png),url(../img/back.png),url(../img/Rectangle.png) ;
+  background-image: url(/Beauty-centel/img/logo.png), 
+  url(/Beauty-centel/img/Rectangle_white.png), 
+  url(/Beauty-centel/img/back.png), 
+  url(/Beauty-centel/img/Rectangle.png);
+
   background-size: 915px,70% 500px ,400px 400px, 400px 500px ;
   background-position: 370px 10px,left top ,790px 10px , top right ;
   background-repeat: no-repeat;
